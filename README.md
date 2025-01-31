@@ -34,4 +34,4 @@ This project covers a full-stack development approach:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/emc-academy.git
+git clone (https://github.com/Swadu11/Web-Page-HTML-Project.git)
