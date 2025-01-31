@@ -12,7 +12,7 @@ This repository contains an **educational website** that offers:
 
 ## 🌍 Live Demo
 
-[Check out the website](#) *(Replace with actual link when deployed)*
+[Check out the website](https://swadu11.github.io/Web-Page-HTML-Project/) 
 
 ## 🛠 Technologies Used
 
